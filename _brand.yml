@@ -1,0 +1,18 @@
+typography:
+  fonts:
+    - family: Roboto
+      source: google
+    - family: Roboto Mono
+      source: google
+
+  base:
+    family: Roboto
+    size: 1rem
+    line-height: 1.55
+
+  headings:
+    family: Roboto
+    weight: 500
+
+  monospace:
+    family: Roboto Mono
