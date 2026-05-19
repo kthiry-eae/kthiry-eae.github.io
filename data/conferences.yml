@@ -1,0 +1,154 @@
+- title: Defining Security Limits in Biometrics
+  authors: 'Axel Durbet and
+
+    Paul{-}Marie Grollemund and
+
+    Pascal Lafourcade and
+
+    Kevin Thiry{-}Atighehchi'
+  date: '2025-01-01'
+  venue: 'Proceedings of the Fifteenth {ACM} Conference on Data and Application
+
+    Security and Privacy, {CODASPY} 2025, Pittsburgh, PA, USA, June 4-6,
+
+    2025'
+  url: https://doi.org/10.1145/3714393.3726514
+  doi: 10.1145/3714393.3726514
+- title: 'Exploit the Leak: Understanding Risks in Biometric Matchers'
+  authors: 'Dorine Chagnon and
+
+    Axel Durbet and
+
+    Paul{-}Marie Grollemund and
+
+    Kevin Thiry{-}Atighehchi'
+  date: '2025-01-01'
+  venue: 'Proceedings of the 11th International Conference on Information Systems
+
+    Security and Privacy, {ICISSP} 2025 - Volume 2, Porto, Portugal, February
+
+    20-22, 2025'
+  url: https://doi.org/10.5220/0013250600003899
+  doi: 10.5220/0013250600003899
+- title: Near-collisions and Their Impact on Biometric Security
+  authors: 'Axel Durbet and
+
+    Paul{-}Marie Grollemund and
+
+    Pascal Lafourcade and
+
+    Kevin Thiry{-}Atighehchi'
+  date: '2022-01-01'
+  venue: 'Proceedings of the 19th International Conference on Security and Cryptography,
+
+    {SECRYPT} 2022, Lisbon, Portugal, July 11-13, 2022'
+  url: https://doi.org/10.5220/0011279200003283
+  doi: 10.5220/0011279200003283
+- title: Authentication Attacks on Projection-based Cancelable Biometric Schemes
+  authors: 'Axel Durbet and
+
+    Paul{-}Marie Grollemund and
+
+    Pascal Lafourcade and
+
+    Denis Migdal and
+
+    Kevin Thiry{-}Atighehchi'
+  date: '2022-01-01'
+  venue: 'Proceedings of the 19th International Conference on Security and Cryptography,
+
+    {SECRYPT} 2022, Lisbon, Portugal, July 11-13, 2022'
+  url: https://doi.org/10.5220/0011277100003283
+  doi: 10.5220/0011277100003283
+- title: Proof of Behavior (Short Paper)
+  authors: 'Paul{-}Marie Grollemund and
+
+    Pascal Lafourcade and
+
+    Kevin Thiry{-}Atighehchi and
+
+    Ariane Tichit'
+  date: '2020-01-01'
+  venue: '2nd International Conference on Blockchain Economics, Security and
+
+    Protocols, Tokenomics 2020, Toulouse, France, October 26-27, 2020'
+  url: https://doi.org/10.4230/OASIcs.Tokenomics.2020.11
+  doi: 10.4230/OASICS.TOKENOMICS.2020.11
+- title: Signature Renewal for Low Entropy Data
+  authors: 'Kevin Atighehchi and
+
+    Morgan Barbier'
+  date: '2018-01-01'
+  venue: '17th {IEEE} International Conference On Trust, Security And Privacy
+
+    In Computing And Communications / 12th {IEEE} International Conference
+
+    On Big Data Science And Engineering, TrustCom/BigDataSE 2018, New
+
+    York, NY, USA, August 1-3, 2018'
+  url: https://doi.org/10.1109/TrustCom/BigDataSE.2018.00126
+  doi: 10.1109/TRUSTCOM/BIGDATASE.2018.00126
+- title: On the Incremental Digital Signatures
+  authors: Kevin Atighehchi
+  date: '2018-01-01'
+  venue: '17th {IEEE} International Conference On Trust, Security And Privacy
+
+    In Computing And Communications / 12th {IEEE} International Conference
+
+    On Big Data Science And Engineering, TrustCom/BigDataSE 2018, New
+
+    York, NY, USA, August 1-3, 2018'
+  url: https://doi.org/10.1109/TrustCom/BigDataSE.2018.00234
+  doi: 10.1109/TRUSTCOM/BIGDATASE.2018.00234
+- title: Authenticated Dictionary Based on Frequency
+  authors: 'Kevin Atighehchi and
+
+    Alexis Bonnecaze and
+
+    Traian Muntean'
+  date: '2014-01-01'
+  venue: '{ICT} Systems Security and Privacy Protection - 29th {IFIP} {TC} 11
+
+    International Conference, {SEC} 2014, Marrakech, Morocco, June 2-4,
+
+    2014. Proceedings'
+  url: https://doi.org/10.1007/978-3-642-55415-5\_24
+  doi: 10.1007/978-3-642-55415-5\_24
+- title: Towards fully incremental cryptographic schemes
+  authors: 'Kevin Atighehchi and
+
+    Traian Muntean'
+  date: '2013-01-01'
+  venue: '8th {ACM} Symposium on Information, Computer and Communications Security,
+
+    {ASIA} {CCS} ''13, Hangzhou, China - May 08 - 10, 2013'
+  url: https://doi.org/10.1145/2484313.2484380
+  doi: 10.1145/2484313.2484380
+- title: Generic Parallel Cryptography for Hashing Schemes
+  authors: 'Kevin Atighehchi and
+
+    Traian Muntean'
+  date: '2013-01-01'
+  venue: '{IEEE} 12th International Symposium on Parallel and Distributed Computing,
+
+    {ISPDC} 2013, Bucharest, Romania, June 27-30, 2013'
+  url: https://doi.org/10.1109/ISPDC.2013.34
+  doi: 10.1109/ISPDC.2013.34
+- title: A Cryptographic Keys Transfer Protocol for Secure Communicating Systems
+  authors: 'Kevin Atighehchi and
+
+    Traian Muntean and
+
+    Sylvain Parlanti and
+
+    Robert Rolland and
+
+    Laurent Vallet'
+  date: '2010-01-01'
+  venue: '12th International Symposium on Symbolic and Numeric Algorithms for
+
+    Scientific Computing, {SYNASC} 2010, Timisoara, Romania, 23-26 September
+
+    2010'
+  url: https://doi.org/10.1109/SYNASC.2010.56
+  doi: 10.1109/SYNASC.2010.56

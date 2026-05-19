@@ -1,0 +1,44 @@
+project:
+  type: website
+  output-dir: docs
+
+resources:
+  - googlec53dc10013fdfc3f.html
+
+website:
+  site-url: https://kthiry-eae.github.io/
+  page-footer:
+    center: |
+      <img src="images/logo-eae.png" alt="EAE logo" style="height:40px; margin-right:24px;">
+      <img src="images/logo-crea.png" alt="CREA logo" style="height:32px;">
+  title: "Kevin Thiry"
+  navbar:
+    background: "#2f4858"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: resources.qmd
+        text: Resources
+      - href: contact.qmd
+        text: Contact
+
+format:
+  html:
+    theme: 
+    - solar
+    - brand
+    css: styles.css
+    toc: true
+    page-layout: article
+    smooth-scroll: true
+    link-external-newwindow: true
+    anchor-sections: true
+    include-in-header:
+      text: |
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;500;600;700;750&display=swap" rel="stylesheet">

@@ -1,0 +1,148 @@
+---
+title: "Cybersecurity and computer science education resources"
+toc: true
+toc-depth: 2
+---
+
+Resources for learning and teaching cybersecurity, computer science, and cryptography.
+
+Useful for students, teachers, curious learners, outreach activities, and younger audiences.
+
+## Recommended starting points
+
+- **Cybersecurity basics:** [SecNumacademie](https://messervices.cyber.gouv.fr/services/secnum-academie.html)
+- **Cyber awareness:** [SensCyber](https://www.cybermalveillance.gouv.fr/sens-cyber/apprendre)
+- **French online course:** [OpenClassrooms - Découvrez l'univers de la cybersécurité](https://openclassrooms.com/courses/8028761-decouvrez-l-univers-de-la-cybersecurite)
+- **Hands-on beginner practice:** [OverTheWire - Bandit](https://overthewire.org/wargames/bandit/)
+- **Cryptography exercises:** [CryptoHack](https://cryptohack.org/)
+- **Children and outreach:** [CS Unplugged (FR)](https://www.csunplugged.org/fr/)
+- **French programming practice:** [France-IOI](https://www.france-ioi.org/)
+- **CTF introduction:** [The CTF Primer](https://primer.picoctf.org/)
+
+## {{< fa video >}} Channels and videos
+
+### Broad audience
+
+- [Micode](https://www.youtube.com/@Micode): French-language channel on cybersecurity, online scams, and digital investigations.
+- [fern](https://www.youtube.com/@fern-tv): Documentary-style videos on technology, cybersecurity, and the digital world.
+- [Cybernews](https://www.youtube.com/@cybernews): Cybersecurity news, short formats, and some longer documentary-style videos.
+- [LaurieWired](https://www.youtube.com/@lauriewired): A mix of technical explanations and documentary-style cybersecurity content.
+
+### Technical audience
+
+- [LiveOverflow](https://www.youtube.com/@LiveOverflow): Technical videos on vulnerabilities, exploitation, and security concepts.
+- [Low Level Learning](https://www.youtube.com/@LowLevelLearning): Videos on low-level systems, security, and vulnerabilities.
+- [John Hammond](https://www.youtube.com/@_JohnHammond): Content on cybersecurity, CTFs, malware, and vulnerability analysis.
+
+## {{< fa puzzle-piece >}} Foundations and activities for younger learners
+
+Resources in this section are useful for outreach, introductory teaching, and activities with children or younger learners. They help introduce computing ideas before using technical tools.
+
+### Unplugged and classroom activities
+
+- [CS Unplugged (FR)](https://www.csunplugged.org/fr/): Activities for teaching core computer science concepts without a computer.
+- [CS Unplugged at home](https://www.csunplugged.org/fr/at-home/): Activities that work well in small groups, families, or informal workshops.
+- [Classic CS Unplugged book](https://classic.csunplugged.org/books/): The historical CS Unplugged book, available as a free download.
+- [Classic CS Unplugged activities](https://classic.csunplugged.org/activities/): Printable unplugged activities with explanations and worksheets.
+- [Teaching London Computing - Unplugged Computing](https://teachinglondoncomputing.org/unplugged-computing/): Notes and classroom material around unplugged computing.
+- [Teaching London Computing - Inspiring unplugged classroom activities](https://teachinglondoncomputing.org/resources/inspiring-unplugged-classroom-activities/): Activities on algorithms, image representation, recursion, and related topics.
+- [Barefoot Computing](https://www.barefootcomputing.org/): Resources for introducing computing in class.
+- [Class'Code](https://www.class-code.fr/): French-language resources and training material for teaching computer science, programming, and digital culture.
+- [Pixees](https://pixees.fr/): French-language resources from Inria for sharing computer science and digital culture.
+
+### Introductory programming
+
+- [Scratch Learning Library](https://scratchfoundation.org/learn/learning-library): Activities, lesson ideas, and coding cards for children and educators.
+- [Code.org Curriculum Catalog](https://studio.code.org/catalog): Courses and activities organised by age and level.
+- [Blockly Games](https://blockly.games/?lang=fr): A gentle introduction to programming logic through short visual games.
+- [Lightbot](https://lightbot.com/): A puzzle game introducing sequencing, procedures, loops, and conditionals.
+- [France-IOI](https://www.france-ioi.org/): French platform for learning programming and algorithmics through progressive exercises.
+- [France-IOI - Cours et problèmes](https://www.france-ioi.org/algo/chapters.php): Courses and automatically corrected problems in several programming languages.
+
+### Computer science culture
+
+- [Computer Science Field Guide](https://www.csfieldguide.org.nz/): A structured online resource for students who want a broader view of computer science.
+- [Khan Academy - Computer Science](https://www.khanacademy.org/computing/computer-science): Structured explanations for self-paced learning.
+- [cs4fn - Computer Science for Fun](https://cs4fn.blog/): Accessible articles connecting computer science to concrete ideas and problems.
+- [Interstices](https://interstices.info/): French-language articles for understanding computer science and digital technologies.
+- [Pixees - Ressources](https://pixees.fr/utiliser-une-ressource/): French resources for digital culture, mediation, and classroom activities.
+
+## {{< fa shield-halved >}} Learning cybersecurity and cryptography
+
+### Getting started
+
+- [SecNumacademie](https://messervices.cyber.gouv.fr/services/secnum-academie.html): The ANSSI online course for learning the basics of digital security.
+- [SensCyber](https://www.cybermalveillance.gouv.fr/sens-cyber/apprendre): A free French e-awareness programme on common cyberattacks and good security practices.
+- [Cybermalveillance.gouv.fr](https://www.cybermalveillance.gouv.fr/): French public-interest platform for prevention, assistance, and awareness around cyber threats.
+- [Khan Academy - Cryptography](https://www.khanacademy.org/computing/computer-science/cryptography): A clear introduction to basic cryptography concepts.
+- [Kid Krypto - Public-Key Encryption](https://classic.csunplugged.org/documents/activities/public-key-encryption/unplugged-18-public_key_encryption_0.pdf): An unplugged activity for introducing public-key encryption.
+- [CrypTool](https://www.cryptool.org/): Useful for learning and experimenting with cryptography.
+- [CrypTool Online](https://www.cryptool.org/cryptool-online/): Handy for small demonstrations and browser-based experiments.
+
+### French online courses
+
+- [OpenClassrooms - Découvrez les bases de la sécurité numérique](https://openclassrooms.com/courses/5870206-decouvrez-les-bases-de-la-securite-numerique): Introductory French course on online threats, privacy, fraud, and basic digital security.
+- [OpenClassrooms - Découvrez l'univers de la cybersécurité](https://openclassrooms.com/courses/8028761-decouvrez-l-univers-de-la-cybersecurite): French introduction to cyberattacks, incident response, and cybersecurity roles.
+- [FUN MOOC - Cybersécurité : usages et bonnes pratiques](https://www.fun-mooc.fr/fr/cours/cybersecurite-usages-et-bonnes-pratiques/): French course on common threats and good security practices.
+- [FUN MOOC - Défis et enjeux de la cybersécurité](https://www.fun-mooc.fr/fr/cours/defis-et-enjeux-de-la-cybersecurite/): French MOOC on societal and technical aspects of cybersecurity.
+- [FUN MOOC - Sécurité des Réseaux Informatiques](https://www.fun-mooc.fr/fr/cours/securite-des-reseaux-informatiques/): French course on network security, threats, protection mechanisms, filtering, and VPNs.
+
+### Advanced courses
+
+- [Dan Boneh - Online Cryptography Course](https://crypto.stanford.edu/~dabo/courses/OnlineCrypto/): A classic free online cryptography course from Stanford.
+- [Shafi Goldwasser - Lecture Notes on Cryptography](https://cseweb.ucsd.edu/~mihir/papers/gb.pdf): A well-known theoretical reference based on MIT cryptography teaching.
+- [Christof Paar - Introduction to Cryptography](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg): A clear and applied introduction to modern cryptography.
+- [Jonathan Katz - Introduction to Cryptography notes](https://www.cs.umd.edu/~jkatz/crypto/f02/lectures/crypto_notes.pdf): Lecture notes for a more formal university-level approach.
+- [CryptoHack](https://cryptohack.org/): A hands-on way to learn modern cryptography through guided challenges.
+- [A Graduate Course in Applied Cryptography](https://crypto.stanford.edu/~dabo/cryptobook/): A free advanced textbook by Dan Boneh and Victor Shoup.
+
+## {{< fa terminal >}} Practice platforms
+
+### Beginner-friendly
+
+- [OverTheWire](https://overthewire.org/): Wargames for learning security concepts step by step.
+- [OverTheWire - Bandit](https://overthewire.org/wargames/bandit/): A good starting point for beginners.
+- [picoCTF](https://picoctf.org/): Learning, practice, and competitions for students.
+- [picoCTF - Getting Started](https://picoctf.org/get_started.html): A clear entry point for learners and teachers.
+- [The CTF Primer](https://primer.picoctf.org/): Introductory material for understanding and approaching CTF-style challenges.
+- [Pix](https://pix.fr/): French platform for evaluating, developing, and certifying digital skills.
+
+### More advanced
+
+- [Root-Me](https://www.root-me.org/?lang=en): A large collection of challenges in many areas of security.
+- [Hack The Box](https://www.hackthebox.com/): Labs and guided material for more advanced hands-on practice.
+- [HTB Academy](https://academy.hackthebox.com/): Structured learning paths and modules.
+- [OverTheWire - Natas](https://overthewire.org/wargames/natas/): A useful introduction to server-side web security.
+
+## {{< fa screwdriver-wrench >}} Tools
+
+### Cryptography and encoding
+
+- [dCode](https://www.dcode.fr/en): Useful for classical ciphers, encodings, and small cryptanalysis exercises.
+- [dCode - Cipher Identifier](https://www.dcode.fr/cipher-identifier): Handy when students need help identifying a cipher.
+
+### Physical computing
+
+- [micro:bit](https://microbit.org/): Useful for simple physical computing activities.
+- [Microsoft MakeCode for micro:bit](https://makecode.microbit.org/): A simple way to connect programming with hardware projects.
+
+## {{< fa chalkboard-user >}} For teachers
+
+### Classroom material
+
+- [Teaching London Computing - Resources](https://teachinglondoncomputing.org/resources/): A good entry point for classroom-ready material.
+- [picoCTF - Learning Guides](https://picoctf.org/resources.html): Background material by topic for learners and teachers.
+- [Class'Code](https://www.class-code.fr/): French resources and training material for teaching computer science and digital culture.
+- [Pixees](https://pixees.fr/): French mediation resources for teaching and discussing computer science.
+- [France-IOI - Enseigner](https://www.france-ioi.org/algo/course.php?idChapter=811&idCourse=2703): Material and progressive exercises that can support programming teaching.
+- [CNIL - Education](https://www.cnil.fr/fr/education): French resources for teaching privacy, personal data protection, and safe digital practices.
+- [CNIL - Education for teachers](https://www.cnil.fr/fr/education-pro): Resources for teachers and schools on privacy and personal data.
+
+### Institutional and French resources
+
+- [ANSSI - Guides, services numeriques et outils](https://cyber.gouv.fr/offre-de-service/guides-services-numeriques-et-outils/): Official guides and resources for improving cybersecurity practices.
+- [MesServicesCyber](https://messervices.cyber.gouv.fr/catalogue/): A catalogue of services and resources from ANSSI and its partners.
+- [ANSSI - Formations labellisees](https://cyber.gouv.fr/offre-de-service/formations-entrainement-et-decouverte-des-metiers/formations/formation-labellisees-par-lanssi/): An entry point for recognised cybersecurity programmes.
+- [CyberEdu](https://www.cyberedu.fr/): A French initiative promoting cybersecurity education in academic curricula.
+- [Cybermalveillance.gouv.fr - Young audiences](https://www.cybermalveillance.gouv.fr/tous-nos-contenus/actualites/dossier-accompagnement-sensibilisation-des-jeunes): French resources for awareness and support aimed at young audiences.
+- [Éduscol - Education and cybersecurity](https://eduscol.education.fr/6738/education-et-cybersecurite): French institutional resources on cybersecurity education.

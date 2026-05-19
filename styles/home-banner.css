@@ -1,0 +1,67 @@
+.quarto-title-banner {
+  background:
+    url("../images/logo-eae.png") no-repeat left calc(70% + 8rem) top 1.8rem / 120px auto,
+    url("../images/logo-crea.png") no-repeat left calc(70% + 8rem) top 6.2rem / 105px auto,
+    #2c3e50 !important;
+  min-height: 165px;
+}
+
+.quarto-title-banner .title,
+.quarto-title-banner .subtitle {
+  max-width: 70%;
+  position: relative;
+  left: -2rem;
+}
+
+.quarto-title-banner .quarto-title-block-content {
+  margin-left: 0 !important;
+  padding-left: 0 !important;
+}
+
+/* Tablette */
+@media (max-width: 1000px) {
+  .quarto-title-banner {
+    background:
+      url("../images/logo-eae.png") no-repeat left calc(70% + 4rem) top 1.6rem / 95px auto,
+      url("../images/logo-crea.png") no-repeat left calc(70% + 4rem) top 5.4rem / 82px auto,
+      #2c3e50 !important;
+    min-height: 150px;
+  }
+
+  .quarto-title-banner .title,
+  .quarto-title-banner .subtitle {
+    max-width: 70%;
+    left: -1rem;
+  }
+
+  .quarto-title-banner .quarto-title-block-content {
+    margin-left: 0 !important;
+    padding-left: 0 !important;
+  }
+}
+
+/* Mobile */
+@media (max-width: 700px) {
+  .quarto-title-banner {
+    background: #2c3e50 !important;
+    min-height: auto;
+  }
+
+  .quarto-title-banner .title,
+  .quarto-title-banner .subtitle {
+    max-width: 100%;
+    left: 0;
+  }
+
+  .quarto-title-banner .quarto-title-block-content {
+    margin-left: 0 !important;
+    padding-left: 0 !important;
+  }
+}
+
+.home-second-subtitle {
+  margin-top: -0.5rem;
+  margin-bottom: 1rem;
+  font-size: 1rem;
+  color: #5c6770;
+}

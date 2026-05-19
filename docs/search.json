@@ -1,0 +1,128 @@
+[
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Cybersecurity and computer science education resources",
+    "section": "",
+    "text": "Resources for learning and teaching cybersecurity, computer science, and cryptography.\nUseful for students, teachers, curious learners, outreach activities, and younger audiences."
+  },
+  {
+    "objectID": "resources.html#recommended-starting-points",
+    "href": "resources.html#recommended-starting-points",
+    "title": "Cybersecurity and computer science education resources",
+    "section": "Recommended starting points",
+    "text": "Recommended starting points\n\nCybersecurity basics: SecNumacademie\nCyber awareness: SensCyber\nFrench online course: OpenClassrooms - Découvrez l’univers de la cybersécurité\nHands-on beginner practice: OverTheWire - Bandit\nCryptography exercises: CryptoHack\nChildren and outreach: CS Unplugged (FR)\nFrench programming practice: France-IOI\nCTF introduction: The CTF Primer"
+  },
+  {
+    "objectID": "resources.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120766964656f203e7d7d-channels-and-videos",
+    "href": "resources.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120766964656f203e7d7d-channels-and-videos",
+    "title": "Cybersecurity and computer science education resources",
+    "section": " Channels and videos",
+    "text": "Channels and videos\n\nBroad audience\n\nMicode: French-language channel on cybersecurity, online scams, and digital investigations.\nfern: Documentary-style videos on technology, cybersecurity, and the digital world.\nCybernews: Cybersecurity news, short formats, and some longer documentary-style videos.\nLaurieWired: A mix of technical explanations and documentary-style cybersecurity content.\n\n\n\nTechnical audience\n\nLiveOverflow: Technical videos on vulnerabilities, exploitation, and security concepts.\nLow Level Learning: Videos on low-level systems, security, and vulnerabilities.\nJohn Hammond: Content on cybersecurity, CTFs, malware, and vulnerability analysis."
+  },
+  {
+    "objectID": "resources.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612070757a7a6c652d7069656365203e7d7d-foundations-and-activities-for-younger-learners",
+    "href": "resources.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612070757a7a6c652d7069656365203e7d7d-foundations-and-activities-for-younger-learners",
+    "title": "Cybersecurity and computer science education resources",
+    "section": " Foundations and activities for younger learners",
+    "text": "Foundations and activities for younger learners\nResources in this section are useful for outreach, introductory teaching, and activities with children or younger learners. They help introduce computing ideas before using technical tools.\n\nUnplugged and classroom activities\n\nCS Unplugged (FR): Activities for teaching core computer science concepts without a computer.\nCS Unplugged at home: Activities that work well in small groups, families, or informal workshops.\nClassic CS Unplugged book: The historical CS Unplugged book, available as a free download.\nClassic CS Unplugged activities: Printable unplugged activities with explanations and worksheets.\nTeaching London Computing - Unplugged Computing: Notes and classroom material around unplugged computing.\nTeaching London Computing - Inspiring unplugged classroom activities: Activities on algorithms, image representation, recursion, and related topics.\nBarefoot Computing: Resources for introducing computing in class.\nClass’Code: French-language resources and training material for teaching computer science, programming, and digital culture.\nPixees: French-language resources from Inria for sharing computer science and digital culture.\n\n\n\nIntroductory programming\n\nScratch Learning Library: Activities, lesson ideas, and coding cards for children and educators.\nCode.org Curriculum Catalog: Courses and activities organised by age and level.\nBlockly Games: A gentle introduction to programming logic through short visual games.\nLightbot: A puzzle game introducing sequencing, procedures, loops, and conditionals.\nFrance-IOI: French platform for learning programming and algorithmics through progressive exercises.\nFrance-IOI - Cours et problèmes: Courses and automatically corrected problems in several programming languages.\n\n\n\nComputer science culture\n\nComputer Science Field Guide: A structured online resource for students who want a broader view of computer science.\nKhan Academy - Computer Science: Structured explanations for self-paced learning.\ncs4fn - Computer Science for Fun: Accessible articles connecting computer science to concrete ideas and problems.\nInterstices: French-language articles for understanding computer science and digital technologies.\nPixees - Ressources: French resources for digital culture, mediation, and classroom activities."
+  },
+  {
+    "objectID": "resources.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120736869656c642d68616c766564203e7d7d-learning-cybersecurity-and-cryptography",
+    "href": "resources.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120736869656c642d68616c766564203e7d7d-learning-cybersecurity-and-cryptography",
+    "title": "Cybersecurity and computer science education resources",
+    "section": " Learning cybersecurity and cryptography",
+    "text": "Learning cybersecurity and cryptography\n\nGetting started\n\nSecNumacademie: The ANSSI online course for learning the basics of digital security.\nSensCyber: A free French e-awareness programme on common cyberattacks and good security practices.\nCybermalveillance.gouv.fr: French public-interest platform for prevention, assistance, and awareness around cyber threats.\nKhan Academy - Cryptography: A clear introduction to basic cryptography concepts.\nKid Krypto - Public-Key Encryption: An unplugged activity for introducing public-key encryption.\nCrypTool: Useful for learning and experimenting with cryptography.\nCrypTool Online: Handy for small demonstrations and browser-based experiments.\n\n\n\nFrench online courses\n\nOpenClassrooms - Découvrez les bases de la sécurité numérique: Introductory French course on online threats, privacy, fraud, and basic digital security.\nOpenClassrooms - Découvrez l’univers de la cybersécurité: French introduction to cyberattacks, incident response, and cybersecurity roles.\nFUN MOOC - Cybersécurité : usages et bonnes pratiques: French course on common threats and good security practices.\nFUN MOOC - Défis et enjeux de la cybersécurité: French MOOC on societal and technical aspects of cybersecurity.\nFUN MOOC - Sécurité des Réseaux Informatiques: French course on network security, threats, protection mechanisms, filtering, and VPNs.\n\n\n\nAdvanced courses\n\nDan Boneh - Online Cryptography Course: A classic free online cryptography course from Stanford.\nShafi Goldwasser - Lecture Notes on Cryptography: A well-known theoretical reference based on MIT cryptography teaching.\nChristof Paar - Introduction to Cryptography: A clear and applied introduction to modern cryptography.\nJonathan Katz - Introduction to Cryptography notes: Lecture notes for a more formal university-level approach.\nCryptoHack: A hands-on way to learn modern cryptography through guided challenges.\nA Graduate Course in Applied Cryptography: A free advanced textbook by Dan Boneh and Victor Shoup."
+  },
+  {
+    "objectID": "resources.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661207465726d696e616c203e7d7d-practice-platforms",
+    "href": "resources.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661207465726d696e616c203e7d7d-practice-platforms",
+    "title": "Cybersecurity and computer science education resources",
+    "section": " Practice platforms",
+    "text": "Practice platforms\n\nBeginner-friendly\n\nOverTheWire: Wargames for learning security concepts step by step.\nOverTheWire - Bandit: A good starting point for beginners.\npicoCTF: Learning, practice, and competitions for students.\npicoCTF - Getting Started: A clear entry point for learners and teachers.\nThe CTF Primer: Introductory material for understanding and approaching CTF-style challenges.\nPix: French platform for evaluating, developing, and certifying digital skills.\n\n\n\nMore advanced\n\nRoot-Me: A large collection of challenges in many areas of security.\nHack The Box: Labs and guided material for more advanced hands-on practice.\nHTB Academy: Structured learning paths and modules.\nOverTheWire - Natas: A useful introduction to server-side web security."
+  },
+  {
+    "objectID": "resources.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612073637265776472697665722d7772656e6368203e7d7d-tools",
+    "href": "resources.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612073637265776472697665722d7772656e6368203e7d7d-tools",
+    "title": "Cybersecurity and computer science education resources",
+    "section": " Tools",
+    "text": "Tools\n\nCryptography and encoding\n\ndCode: Useful for classical ciphers, encodings, and small cryptanalysis exercises.\ndCode - Cipher Identifier: Handy when students need help identifying a cipher.\n\n\n\nPhysical computing\n\nmicro:bit: Useful for simple physical computing activities.\nMicrosoft MakeCode for micro:bit: A simple way to connect programming with hardware projects."
+  },
+  {
+    "objectID": "resources.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206368616c6b626f6172642d75736572203e7d7d-for-teachers",
+    "href": "resources.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206368616c6b626f6172642d75736572203e7d7d-for-teachers",
+    "title": "Cybersecurity and computer science education resources",
+    "section": " For teachers",
+    "text": "For teachers\n\nClassroom material\n\nTeaching London Computing - Resources: A good entry point for classroom-ready material.\npicoCTF - Learning Guides: Background material by topic for learners and teachers.\nClass’Code: French resources and training material for teaching computer science and digital culture.\nPixees: French mediation resources for teaching and discussing computer science.\nFrance-IOI - Enseigner: Material and progressive exercises that can support programming teaching.\nCNIL - Education: French resources for teaching privacy, personal data protection, and safe digital practices.\nCNIL - Education for teachers: Resources for teachers and schools on privacy and personal data.\n\n\n\nInstitutional and French resources\n\nANSSI - Guides, services numeriques et outils: Official guides and resources for improving cybersecurity practices.\nMesServicesCyber: A catalogue of services and resources from ANSSI and its partners.\nANSSI - Formations labellisees: An entry point for recognised cybersecurity programmes.\nCyberEdu: A French initiative promoting cybersecurity education in academic curricula.\nCybermalveillance.gouv.fr - Young audiences: French resources for awareness and support aimed at young audiences.\nÉduscol - Education and cybersecurity: French institutional resources on cybersecurity education."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Kevin Thiry",
+    "section": "",
+    "text": "My research interests include cryptography and its applications to secure biometrics, data-centric security, and network security. Since joining the French Air and Space Force Academy, I have also developed an interest in communication infrastructures in the aerospace domain, especially for service continuity, distributed computing in space environments, and security issues related to applications of defense interest."
+  },
+  {
+    "objectID": "research.html#overview",
+    "href": "research.html#overview",
+    "title": "Kevin Thiry",
+    "section": "",
+    "text": "My research interests include cryptography and its applications to secure biometrics, data-centric security, and network security. Since joining the French Air and Space Force Academy, I have also developed an interest in communication infrastructures in the aerospace domain, especially for service continuity, distributed computing in space environments, and security issues related to applications of defense interest."
+  },
+  {
+    "objectID": "research.html#publications",
+    "href": "research.html#publications",
+    "title": "Kevin Thiry",
+    "section": "Publications",
+    "text": "Publications\n\nJournal articles\n\n\n[1] D. Chagnon, K. Thiry-Atighehchi, and G. Chalhoub, “A survey on path validation: Towards digital sovereignty,” Comput. Networks, vol. 256, p. 110905, 2025, doi: 10.1016/J.COMNET.2024.110905.\n\n\n[2] A. Durbet, P.-M. Grollemund, and K. Thiry-Atighehchi, “Biometric untargeted attacks: A case study on near-collisions,” Inf. Sci., vol. 716, p. 122217, 2025, doi: 10.1016/J.INS.2025.122217.\n\n\n[3] P. Lacharme and K. Thiry-Atighehchi, “Cryptanalysis of cancelable biometrics vault,” J. Inf. Secur. Appl., vol. 86, p. 103883, 2024, doi: 10.1016/J.JISA.2024.103883.\n\n\n[4] K. Atighehchi, “A precise non-asymptotic complexity analysis of parallel hash functions without tree topology constraints,” J. Parallel Distributed Comput., vol. 137, pp. 246–251, 2020, doi: 10.1016/J.JPDC.2019.10.002.\n\n\n[5] L. Ghammam, K. Karabina, P. Lacharme, and K. Atighehchi, “A cryptanalysis of two cancelable biometric schemes based on index-of-max hashing,” IEEE Trans. Inf. Forensics Secur., vol. 15, pp. 2869–2880, 2020, doi: 10.1109/TIFS.2020.2977533.\n\n\n[6] K. Atighehchi, L. Ghammam, M. Barbier, and C. Rosenberger, “GREYC-hashing: Combining biometrics and secret for enhancing the security of protected templates,” Future Gener. Comput. Syst., vol. 101, pp. 819–830, 2019, doi: 10.1016/J.FUTURE.2019.07.022.\n\n\n[7] K. Atighehchi, S. Ballet, A. Bonnecaze, and R. Rolland, “Arithmetic in finite fields based on the chudnovsky-chudnovsky multiplication algorithm,” Math. Comput., vol. 86, no. 308, pp. 2975–3000, 2017, doi: 10.1090/MCOM/3230.\n\n\n[8] K. Atighehchi and R. Rolland, “Optimization of tree modes for parallel hash functions: A case study,” IEEE Trans. Computers, vol. 66, no. 9, pp. 1585–1598, 2017, doi: 10.1109/TC.2017.2693185.\n\n\n[9] K. Atighehchi and A. Bonnecaze, “Asymptotic analysis of plausible tree hash modes for SHA-3,” IACR Trans. Symmetric Cryptol., vol. 2017, no. 4, pp. 212–239, 2017, doi: 10.13154/TOSC.V2017.I4.212-239.\n\n\n[10] K. Atighehchi, A. Bonnecaze, and G. Risterucci, “New models for efficient authenticated dictionaries,” Comput. Secur., vol. 53, pp. 203–214, 2015, doi: 10.1016/J.COSE.2015.04.010.\n\n\n\n\nConference papers\n\n\n[1] D. Chagnon, G. Chalhoub, and K. Thiry-Atighehchi, “Timing vs covert detours: A benchmarking study in path validation,” Thessaloniki, Greece: Poster, ACM Symposium on Applied Computing (SAC 2026), NET track, 2026. Available: https://www.sigapp.org/sac/sac2026/file2026/SAC26-FinalProgramv1.2.pdf\n\n\n[2] B. Bazin, C. Bertolissi, A. Bonnecaze, and K. Thiry-Atighehchi, “Breaking anonymity in attribute-based access control encryption,” in Proceedings of the 41st ACM/SIGAPP symposium on applied computing (SAC 2026 security track), 2026.\n\n\n[3] A. Durbet, P.-M. Grollemund, P. Lafourcade, and K. Thiry-Atighehchi, “Defining security limits in biometrics,” in Proceedings of the fifteenth ACM conference on data and application security and privacy, CODASPY 2025, Pittsburgh, PA, USA, June 4-6, 2025, J. Joshi, J. Vaidya, and H. Schulmann, Eds., ACM, 2025, pp. 155–166. doi: 10.1145/3714393.3726514.\n\n\n[4] D. Chagnon, A. Durbet, P.-M. Grollemund, and K. Thiry-Atighehchi, “Exploit the leak: Understanding risks in biometric matchers,” in Proceedings of the 11th international conference on information systems security and privacy, ICISSP 2025 - volume 2, Porto, Portugal, February 20-22, 2025, R. D. Pietro, K. Renaud, and P. Mori, Eds., SCITEPRESS, 2025, pp. 353–362. doi: 10.5220/0013250600003899.\n\n\n[5] D. Chagnon, K. Thiry-Atighehchi, and G. Chalhoub, “Network path validation for packets delivery.” RESSI 2023 – Rendez-vous de la Recherche et de l’Enseignement de la Sécurité des Systèmes d’Information, Neuvy-sur-Barangeon, France, May 2023. Available: https://ressi2023.sciencesconf.org/470927\n\n\n[6] P.-M. Grollemund, C. Jacq, and K. Thiry-Atighehchi, “Enseignement de la sécurité des données individuelles en STID.” RESSI 2022 – Rendez-vous de la Recherche et de l’Enseignement de la Sécurité des Systèmes d’Information, 2022. Available: https://ressi2022.sciencesconf.org/390647/RESSI_papier_enseignement.pdf\n\n\n[7] A. Durbet, P.-M. Grollemund, P. Lafourcade, and K. Thiry-Atighehchi, “Near-collisions and their impact on biometric security,” in Proceedings of the 19th international conference on security and cryptography, SECRYPT 2022, Lisbon, Portugal, July 11-13, 2022, S. D. C. di Vimercati and P. Samarati, Eds., SCITEPRESS, 2022, pp. 382–389. doi: 10.5220/0011279200003283.\n\n\n[8] A. Durbet, P.-M. Grollemund, P. Lafourcade, D. Migdal, and K. Thiry-Atighehchi, “Authentication attacks on projection-based cancelable biometric schemes,” in Proceedings of the 19th international conference on security and cryptography, SECRYPT 2022, Lisbon, Portugal, July 11-13, 2022, S. D. C. di Vimercati and P. Samarati, Eds., SCITEPRESS, 2022, pp. 568–573. doi: 10.5220/0011277100003283.\n\n\n[9] P.-M. Grollemund, P. Lafourcade, K. Thiry-Atighehchi, and A. Tichit, “Proof of behavior (short paper),” in 2nd international conference on blockchain economics, security and protocols, tokenomics 2020, Toulouse, France, October 26-27, 2020, E. Anceaume, C. Bisière, M. Bouvard, Q. Bramas, and C. Casamatta, Eds., in OASIcs, vol. 82. Schloss Dagstuhl - Leibniz-Zentrum für Informatik, 2020, pp. 11:1–11:6. doi: 10.4230/OASICS.TOKENOMICS.2020.11.\n\n\n[10] K. Atighehchi and M. Barbier, “Signature renewal for low entropy data,” in 17th IEEE international conference on trust, security and privacy in computing and communications / 12th IEEE international conference on big data science and engineering, TrustCom/BigDataSE 2018, New York, NY, USA, August 1-3, 2018, IEEE, 2018, pp. 873–884. doi: 10.1109/TRUSTCOM/BIGDATASE.2018.00126.\n\n\n[11] K. Atighehchi, “On the incremental digital signatures,” in 17th IEEE international conference on trust, security and privacy in computing and communications / 12th IEEE international conference on big data science and engineering, TrustCom/BigDataSE 2018, New York, NY, USA, August 1-3, 2018, IEEE, 2018, pp. 1605–1609. doi: 10.1109/TRUSTCOM/BIGDATASE.2018.00234.\n\n\n[12] K. Atighehchi and A. Bonnecaze, “Asymptotic analysis of plausible tree hash modes for SHA-3,” IACR Fast Software Encryption, vol. 2017, no. 4, pp. 212–239, 2017, doi: 10.13154/TOSC.V2017.I4.212-239.\n\n\n[13] K. Atighehchi, A. Bonnecaze, and T. Muntean, “Authenticated dictionary based on frequency,” in ICT systems security and privacy protection - 29th IFIP TC 11 international conference, SEC 2014, Marrakech, Morocco, June 2-4, 2014. proceedings, N. Cuppens-Boulahia, F. Cuppens, S. Jajodia, A. A. E. Kalam, and T. Sans, Eds., in IFIP advances in information and communication technology, vol. 428. Springer, 2014, pp. 293–306. doi: 10.1007/978-3-642-55415-5\\_24.\n\n\n[14] K. Atighehchi and T. Muntean, “Towards fully incremental cryptographic schemes,” in 8th ACM symposium on information, computer and communications security, ASIA CCS ’13, Hangzhou, China - May 08 - 10, 2013, K. Chen, Q. Xie, W. Qiu, N. Li, and W.-G. Tzeng, Eds., ACM, 2013, pp. 505–510. doi: 10.1145/2484313.2484380.\n\n\n[15] K. Atighehchi and T. Muntean, “Generic parallel cryptography for hashing schemes,” in IEEE 12th international symposium on parallel and distributed computing, ISPDC 2013, Bucharest, Romania, June 27-30, 2013, N. Tapus, D. Grigoras, R. Potolea, and F. Pop, Eds., IEEE, 2013, pp. 201–208. doi: 10.1109/ISPDC.2013.34.\n\n\n[16] K. Atighehchi, T. Muntean, S. Parlanti, R. Rolland, and L. Vallet, “A cryptographic keys transfer protocol for secure communicating systems,” in 12th international symposium on symbolic and numeric algorithms for scientific computing, SYNASC 2010, Timisoara, Romania, 23-26 September 2010, T. Ida, V. Negru, T. Jebelean, D. Petcu, S. M. Watt, and D. Zaharie, Eds., IEEE Computer Society, 2010, pp. 339–343. doi: 10.1109/SYNASC.2010.56.\n\n\n\n\nMagazine articles\n\n\n[1] A. Bonnecaze and K. Thiry-Atighehchi, “Protéger et modifier les données : Le casse-tête blockchain,” La Recherche, no. 580, Jan. 2025, Available: https://www.larecherche.fr/prot%C3%A9ger-et-modifier-les-donn%C3%A9es-le-casse-t%C3%AAte-blockchain\n\n\n[2] A. Bonnecaze and K. Thiry-Atighehchi, “L’horodatage sécurisé à l’ère numérique,” La Recherche, no. 573, Apr. 2023, Available: https://www.larecherche.fr/informatique-blockchain/lhorodatage-s%C3%A9curis%C3%A9-%C3%A0-l%C3%A8re-num%C3%A9rique"
+  },
+  {
+    "objectID": "research.html#doctoral-supervision",
+    "href": "research.html#doctoral-supervision",
+    "title": "Kevin Thiry",
+    "section": "Doctoral supervision",
+    "text": "Doctoral supervision\n\nOngoing supervision\n\nMehdi Chourib (since September 2024) - Network Covert Channels\nBaptiste Bazin (since October 2025) - Access Control Encryption\nDorine Chagnon (2022-2025) - Network Path Validation\n\n\n\nPast supervision\n\nAxel Durbet (2021-2024) - Privacy-preserving Biometric Authentication (ANR PRIVABIO)"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Kevin Thiry",
+    "section": "",
+    "text": "You can reach me at the following address:\nKevin Thiry\nAssociate Professor in Cybersecurity\nFrench Air and Space Force Academy\nCREA - Centre de recherche de l’École de l’air et de l’espace\nEmail: kevin.thiry@ecole-air.fr"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Kevin Thiry",
+    "section": "",
+    "text": "Python programming (BSc level)\nObject-oriented programming (BSc level)\nCybersecurity (BSc and MSc level)\nAgile methods (BSc level)\nMachine learning (MSc level)"
+  },
+  {
+    "objectID": "teaching.html#école-de-lair-et-de-lespace-since-2025",
+    "href": "teaching.html#école-de-lair-et-de-lespace-since-2025",
+    "title": "Kevin Thiry",
+    "section": "",
+    "text": "Python programming (BSc level)\nObject-oriented programming (BSc level)\nCybersecurity (BSc and MSc level)\nAgile methods (BSc level)\nMachine learning (MSc level)"
+  },
+  {
+    "objectID": "teaching.html#université-clermont-auvergne---but-data-science-2019-2025",
+    "href": "teaching.html#université-clermont-auvergne---but-data-science-2019-2025",
+    "title": "Kevin Thiry",
+    "section": "Université Clermont Auvergne - BUT Data Science (2019-2025)",
+    "text": "Université Clermont Auvergne - BUT Data Science (2019-2025)\n\nCryptography (BSc level)\nDatabases: relational and NoSQL (BSc level)\nStatistical programming (BSc level)\nData mining (BSc level)\nStatistical studies and survey methods (BSc level)\nDatabase security (BSc level)\nIntroduction to cybersecurity (BSc level)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Kevin Thiry (Atighehchi)",
+    "section": "",
+    "text": "I am an associate professor in cybersecurity at the French Air and Space Force Academy (École de l’air et de l’espace), where I am affiliated with the CREA, the Academy’s research center. Before joining the Academy, I was an associate professor at Université Clermont Auvergne (UCA).\nMy research is in cybersecurity, with interests in cryptography, biometric security, data-centric security, and network security. More broadly, I work on the design of security protocols and algorithms with provable security guarantees for data protection, access control, and secure communications.\nOutside academia, I am also passionate about dance."
+  },
+  {
+    "objectID": "publications.ejs.html",
+    "href": "publications.ejs.html",
+    "title": "Kevin Thiry",
+    "section": "",
+    "text": "&lt;% for (const item of items) { %&gt;\n  &gt;\n    &lt;%- item.title %&gt;\n    &lt;%- item.authors || \"\" %&gt;\n    &lt;%- item.venue || \"\" %&gt; — &lt;%- item.date || \"\" %&gt;\n  \n&lt;% } %&gt;"
+  }
+]

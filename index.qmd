@@ -1,0 +1,21 @@
+---
+title: "Kevin Thiry (Atighehchi)"
+subtitle: "Associate Professor in Cybersecurity<br><span class='home-subtitle-2'>École de l'Air et de l'Espace, Salon-de-Provence, France</span>"
+title-block-banner: "#2c3e50"
+title-block-banner-color: white
+format:
+  html:
+    css: styles/home-banner.css
+about:
+  template: solana
+  image: images/photo.jpeg
+  image-width: 14em
+  image-shape: rounded
+  image-alt: "Portrait of Kevin Thiry"
+---
+
+I am an associate professor in cybersecurity at the [French Air and Space Force Academy (École de l’air et de l’espace)](https://www.ecole-air-espace.fr), where I am affiliated with the [CREA, the Academy’s research center](https://crea.ecole-air-espace.fr). Before joining the Academy, I was an associate professor at [Université Clermont Auvergne (UCA)](https://www.uca.fr).
+
+My research is in cybersecurity, with interests in cryptography, biometric security, data-centric security, and network security. More broadly, I work on the design of security protocols and algorithms with provable security guarantees for data protection, access control, and secure communications.
+
+Outside academia, I am also passionate about dance.
